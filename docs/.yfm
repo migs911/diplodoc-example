@@ -1,1 +1,17 @@
-langs: ['en']
+allowHTML: true
+langs: ['ru','en']
+
+resources:
+  style:
+    - _assets/style/custom.css
+
+docs-viewer:
+  project-name: "8 марта"
+  langs: ['ru']
+  favicon-src: https://storage.yandexcloud.net/diplodoc-www-assets/favicon/favicon.ico
+  logo-options:
+    src: _assets/images/logo.svg
+    title: "8 марта: руководство для мальчиков"
+    img-has:
+      width: 158px
+      offset: true

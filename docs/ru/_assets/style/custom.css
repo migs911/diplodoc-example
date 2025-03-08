@@ -1,0 +1,40 @@
+:root {
+  --yfm-text-color: #333;
+  --yfm-background-color: #fff;
+  --yfm-link-color: #ff69b4;
+  --yfm-link-hover-color: #ff1493;
+  --yfm-heading-color: #ff69b4;
+}
+
+.yfm-markdown h1 {
+  color: var(--yfm-heading-color);
+}
+
+.yfm-markdown h2 {
+  color: var(--yfm-heading-color);
+  border-bottom: 1px solid #ffe6f2;
+}
+
+.yfm-markdown a {
+  color: var(--yfm-link-color);
+}
+
+.yfm-markdown a:hover {
+  color: var(--yfm-link-hover-color);
+}
+
+.yfm-note {
+  border-left-color: #ff69b4;
+}
+
+.yfm-note__content {
+  border-color: #ffe6f2;
+}
+
+.yfm-tab {
+  border-color: #ffe6f2;
+}
+
+.yfm-tab_active {
+  border-color: #ff69b4;
+} 

@@ -1,0 +1,33 @@
+title: "8 марта: руководство для мальчиков"
+href: index.yaml
+navigation:
+  logo:
+    url: "./"
+    urlTitle: 'Вернуться на главную'
+    light:
+      icon: "_assets/images/logo.svg"
+items:
+  - name: "❤️ Для девушек, которые попали сюда"
+    href: for-girls.md
+  - name: Главная
+    href: index.yaml
+  - name: Основные принципы
+    href: basic-principles.md
+  - name: Каталог идей
+    items:
+      - name: Для коллег
+        href: ideas/colleagues.md
+      - name: Для любимых
+        href: ideas/loved-ones.md
+      - name: Для мамы и бабушки
+        href: ideas/family.md
+  - name: Инструкции
+    items:
+      - name: Как выбрать подарок
+        href: guides/choose-gift.md
+      - name: Как красиво упаковать подарок
+        href: guides/wrapping.md
+      - name: Как составить поздравление
+        href: guides/congrats.md
+  - name: Шпаргалка
+    href: cheatsheet.md 
