@@ -5,7 +5,7 @@ navigation:
     url: "./"
     urlTitle: 'Вернуться на главную'
     light:
-      icon: "_assets/images/logo.svg"
+      icon: "https://raw.githubusercontent.com/migs911/diplodoc-example/refs/heads/main/docs/ru/_images/logo.svg"
 items:
   - name: "❤️ Для девушек, которые попали сюда"
     href: for-girls.md
@@ -30,4 +30,4 @@ items:
       - name: Как составить поздравление
         href: guides/congrats.md
   - name: Шпаргалка
-    href: cheatsheet.md 
+    href: cheatsheet.md

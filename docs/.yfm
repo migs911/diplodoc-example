@@ -1,5 +1,5 @@
 allowHTML: true
-langs: ['ru','en']
+langs: ['ru']
 
 resources:
   style:
@@ -10,7 +10,7 @@ docs-viewer:
   langs: ['ru']
   favicon-src: https://storage.yandexcloud.net/diplodoc-www-assets/favicon/favicon.ico
   logo-options:
-    src: _assets/images/logo.svg
+    src: https://raw.githubusercontent.com/migs911/diplodoc-example/refs/heads/main/docs/ru/_images/logo.svg
     title: "8 марта: руководство для мальчиков"
     img-has:
       width: 158px
